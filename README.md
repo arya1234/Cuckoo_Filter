@@ -28,11 +28,9 @@ python test.py
 
 ## Repository Structure
 
-- **`cuckoo_filter.py`**: Contains the implementation of the Cuckoo filter.
-- **`machine_learning.py`**: Implements the machine learning model for fraudulent transaction detection.
 - **`test.py`**: The main script to test the Cuckoo filter and machine learning integration.
 - **`X_1`**: Input financial data file.
-- **`model_file`**: Pre-trained machine learning model file.
+- **`random_forest_model.joblib`**: Pre-trained machine learning model file.
 - **`top_50_legitimate_users`**: File containing information about the top legitimate users.
 
 ## Requirements
