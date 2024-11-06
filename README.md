@@ -13,7 +13,7 @@ This project combines a custom-built **Cuckoo filter** with a machine learning m
 
 1. **Clone this repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/arya1234/Cuckoo_Filter.git
    cd cuckoo-filter-fraud-detection
    ```
    
